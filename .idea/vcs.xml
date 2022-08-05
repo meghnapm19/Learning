@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/apad_hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-katas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oopy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trial/trialapp" vcs="Git" />
+  </component>
+</project>
